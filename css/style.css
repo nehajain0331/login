@@ -1,12 +1,17 @@
 body
 {
-   margin: 0;
+	height: 100%;
+}
+body{
+
+	 margin: 0;
    padding: 0;
-   background: url(D:/JS/todo-master/login/image/Quotefancy27.jpg);
+   background: url(image/back.jpg) no-repeat fixed ;
    background-size: cover;
    font-family: sans-serif;    
 
 }
+  
 .loginBox{
 
 	position: absolute;
